@@ -1,0 +1,7 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Strict-Transport-Security: max-age=31536000
+  Content-Security-Policy: default-src 'none'; base-uri 'none'; object-src 'none'; img-src 'self' data:; style-src 'unsafe-inline'; font-src 'self'; connect-src 'self' https://formsubmit.co; form-action https://formsubmit.co; frame-ancestors 'none'; script-src 'sha256-YJU0BWFtH4CA2RenLJsfpFL/e6pUa4qnYShl7dLPYBs='
